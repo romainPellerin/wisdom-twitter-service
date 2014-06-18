@@ -1,0 +1,3 @@
+<ipojo>
+<instance component="org.ow2.chameleon.twitter.log.TweetMyLog"/>
+</ipojo>
