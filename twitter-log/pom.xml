@@ -81,7 +81,7 @@
     <dependency>
       <groupId>org.ow2.chameleon.twitter</groupId>
       <artifactId>twitter-service</artifactId>
-      <version>0.2.0</version>
+      <version>0.4.0-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
